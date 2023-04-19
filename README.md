@@ -9,7 +9,7 @@ We used the conda environment with several python packagess.
 The details of environment and python packages we used has been put in the file "environment.yaml" and "requirements.txt".
 
 ## Dataset download
-In the pre-traning with SSL, we use a dataset named ZINC15 which can be downloaded from[chem data](http://snap.stanford.edu/gnn-pretrain/data/chem_dataset.zip)
+In the pre-traning with SSL, we use a dataset named ZINC15 which can be downloaded from [chem data](http://snap.stanford.edu/gnn-pretrain/data/chem_dataset.zip)
 The dataset of DDI task have been provided.
 
 
